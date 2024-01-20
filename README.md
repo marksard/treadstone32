@@ -4,7 +4,7 @@ A 32-key compact keyboard project.
 This repository contains projects from rev2 onward. rev1, lite related projects can be found at the following links.  
 [https://github.com/marksard/Keyboards/tree/master](https://github.com/marksard/Keyboards/tree/master)
 
-# Completed examplev
+# Completed example
 
 # Layout
 
